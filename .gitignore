@@ -1,0 +1,12 @@
+# Dependências
+node_modules/
+
+# CSS gerado
+dist/
+
+# Logs
+*.log
+
+# SO
+.DS_Store
+Thumbs.db
