@@ -50,4 +50,4 @@ Novos exercícios serão adicionados conforme avanço no curso e pratico mais co
 ---
 
 ### 📢 Contato
-Se quiser trocar ideias sobre JavaScript ou desenvolvimento, me encontre no **LinkedIn**: [Fábio Santiago](https://www.linkedin.com/in/fabio-santiago-423774230/) 🚀
+Se quiser trocar ideias sobre desenvolvimento, me encontre no **LinkedIn**: [Fábio Santiago](https://www.linkedin.com/in/fabio-santiago-423774230/) 🚀
