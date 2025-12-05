@@ -5,7 +5,8 @@ Este repositório reúne meus exercícios feitos durante o curso de Tailwind CSS
 Cada exercício é feito com HTML puro + Tailwind CLI, mantendo a estrutura simples, clara e muito próxima do fluxo real de trabalho apresentado no curso.
 
 ````
-/
+
+
 📂 Atividades
 |
 📂 exercicio-01/
