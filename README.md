@@ -6,17 +6,20 @@ Cada exercício é feito com HTML puro + Tailwind CLI, mantendo a estrutura simp
 
 ````
 /
+📂 Atividades
+|
 📂 exercicio-01/
-│   ├── 📂 index.html
-│   ├── 📂 input.css
-│   └── 📂 dist/
-│       └── output.css
+│    └── 📂 src/
+│         └── index.html
+│         └── input.css
+│         └── output.css      
 │
 📂 exercicio-02/
-│   ├── 📂 index.html
-│   ├── 📂 input.css
-│   └── 📂 dist/
-│       └── output.css
+│    └── 📂 src/
+|         └── 📂 img/
+│         └── index.html
+│         └── input.css
+│         └── output.css      
 │
 ├── node_modules/
 ├── package.json
