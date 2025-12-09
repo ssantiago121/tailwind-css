@@ -6,21 +6,42 @@ Cada exercício é feito com HTML puro + Tailwind CLI, mantendo a estrutura simp
 
 ````
 
-
-📂 Atividades
-|
-📂 exercicio-01/
-│    └── 📂 src/
-│         └── index.html
-│         └── input.css
-│         └── output.css      
+📦 tailwind-css
 │
-📂 exercicio-02/
-│    └── 📂 src/
-|         └── 📂 img/
-│         └── index.html
-│         └── input.css
-│         └── output.css      
+📂 atividades/
+│
+│📂 exercicio-01/
+││   └── 📂 src/
+││        ├── index.html
+││        ├── input.css
+││        └── output.css
+││
+│📂 exercicio-02/
+││   └── 📂 src/
+││        ├── 📂 img/
+││        ├── index.html
+││        ├── input.css
+││        └── output.css
+││
+│📂 exercicio-03/
+││   └── 📂 src/
+││        ├── index.html
+││        ├── input.css
+││        └── output.css
+││
+│📂 exercicio-04/
+││   └── 📂 src/
+││        ├── 📂 img/
+││        ├── index.html
+││        ├── input.css
+││        └── output.css
+││
+│📂 exercicio-05/
+││   └── 📂 src/
+││        ├── 📂 img/
+││        ├── index.html
+││        ├── input.css
+││        └── output.css
 │
 ├── node_modules/
 ├── package.json
@@ -49,7 +70,7 @@ Tailwind está se encaixando muito bem no meu aprendizado, deixando o desenvolvi
 
 ## 🚀 Evolução
 
-Novos exercícios serão adicionados conforme avanço no curso e pratico mais conceitos.
+Conforme avanço no curso, novos exercícios serão adicionados seguindo o mesmo padrão, garantindo consistência e evolução contínua do meu aprendizado.
 
 ---
 
